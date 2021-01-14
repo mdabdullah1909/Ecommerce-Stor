@@ -55,12 +55,6 @@ h3{
 .bgf-color{
     background-color: #f8f9fa;
 }
-.btn-link{
-    color: #fff;
-    font-size: 16px;
-    font-weight: bold;
-    text-decoration: none;
-}
-.btn-link:hover{
-    color: orange;
+.btn-link img{
+    height: 100%;
 }
